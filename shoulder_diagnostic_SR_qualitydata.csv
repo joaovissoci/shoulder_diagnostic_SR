@@ -1,100 +1,100 @@
 Author,Item,Value
-Adams 2012,representative spectrum,5
-Adams 2012,acceptable reference standard ,10
-Adams 2012,acceptable delay between tests ,10
-Adams 2012,partial verification avoided,10
-Adams 2012, differential verification avoided,10
-Adams 2012, incorporation avoided,10
-Adams 2012,index test results blinded,5
-Adams 2012, reference standard results blinded,10
-Adams 2012,relevant clinical information,10
-Adams 2012,uninterpretable results reported,10
-Adams 2012,withdrawals explained,10
-Adams 2010,representative spectrum,5
-Adams 2010,acceptable reference standard ,10
-Adams 2010,acceptable delay between tests ,10
-Adams 2010,partial verification avoided,10
-Adams 2010, differential verification avoided,10
-Adams 2010, incorporation avoided,10
-Adams 2010,index test results blinded,5
-Adams 2010, reference standard results blinded,5
-Adams 2010,relevant clinical information,10
-Adams 2010,uninterpretable results reported,10
-Adams 2010,withdrawals explained,10
-Choo 2012,representative spectrum,10
-Choo 2012,acceptable reference standard ,10
-Choo 2012,acceptable delay between tests ,10
-Choo 2012,partial verification avoided,10
-Choo 2012, differential verification avoided,10
-Choo 2012, incorporation avoided,10
-Choo 2012,index test results blinded,0
-Choo 2012, reference standard results blinded,10
-Choo 2012,relevant clinical information,10
-Choo 2012,uninterpretable results reported,10
-Choo 2012,withdrawals explained,10
-Dae 2012,representative spectrum,5
-Dae 2012,acceptable reference standard ,10
-Dae 2012,acceptable delay between tests ,10
-Dae 2012,partial verification avoided,10
-Dae 2012, differential verification avoided,10
-Dae 2012, incorporation avoided,10
-Dae 2012,index test results blinded,0
-Dae 2012, reference standard results blinded,5
-Dae 2012,relevant clinical information,10
-Dae 2012,uninterpretable results reported,10
-Dae 2012,withdrawals explained,10
-Garvaglia 2011,representative spectrum,10
-Garvaglia 2011,acceptable reference standard ,10
-Garvaglia 2011,acceptable delay between tests ,0
-Garvaglia 2011,partial verification avoided,10
-Garvaglia 2011, differential verification avoided,10
-Garvaglia 2011, incorporation avoided,10
-Garvaglia 2011,index test results blinded,5
-Garvaglia 2011, reference standard results blinded,5
-Garvaglia 2011,relevant clinical information,10
-Garvaglia 2011,uninterpretable results reported,10
-Garvaglia 2011,withdrawals explained,10
-Gyftopoulus 2013,representative spectrum,10
-Gyftopoulus 2013,acceptable reference standard ,10
-Gyftopoulus 2013,acceptable delay between tests ,10
-Gyftopoulus 2013,partial verification avoided,10
-Gyftopoulus 2013, differential verification avoided,10
-Gyftopoulus 2013, incorporation avoided,10
-Gyftopoulus 2013,index test results blinded,0
-Gyftopoulus 2013, reference standard results blinded,10
-Gyftopoulus 2013,relevant clinical information,10
-Gyftopoulus 2013,uninterpretable results reported,10
-Gyftopoulus 2013,withdrawals explained,10
-Omoumi 2012,representative spectrum,5
-Omoumi 2012,acceptable reference standard ,10
-Omoumi 2012,acceptable delay between tests ,10
-Omoumi 2012,partial verification avoided,10
-Omoumi 2012, differential verification avoided,10
-Omoumi 2012, incorporation avoided,10
-Omoumi 2012,index test results blinded,0
-Omoumi 2012, reference standard results blinded,10
-Omoumi 2012,relevant clinical information,10
-Omoumi 2012,uninterpretable results reported,10
-Omoumi 2012,withdrawals explained,10
-Ostor 2013,representative spectrum,10
-Ostor 2013,acceptable reference standard ,10
-Ostor 2013,acceptable delay between tests ,10
-Ostor 2013,partial verification avoided,10
-Ostor 2013, differential verification avoided,10
-Ostor 2013, incorporation avoided,10
-Ostor 2013,index test results blinded,0
-Ostor 2013, reference standard results blinded,10
-Ostor 2013,relevant clinical information,10
-Ostor 2013,uninterpretable results reported,10
-Ostor 2013,withdrawals explained,10
-Waldt 2007,representative spectrum,10
-Waldt 2007,acceptable reference standard ,10
-Waldt 2007,acceptable delay between tests ,10
-Waldt 2007,partial verification avoided,10
-Waldt 2007, differential verification avoided,10
-Waldt 2007, incorporation avoided,10
-Waldt 2007,index test results blinded,0
-Waldt 2007, reference standard results blinded,10
-Waldt 2007,relevant clinical information,10
-Waldt 2007,uninterpretable results reported,10
-Waldt 2007,withdrawals explained,10
+Adams 2012,1,5
+Adams 2012,2,10
+Adams 2012,3,10
+Adams 2012,4,10
+Adams 2012,5,10
+Adams 2012,6,10
+Adams 2012,7,5
+Adams 2012,8,10
+Adams 2012,9,10
+Adams 2012,10,10
+Adams 2012,11,10
+Adams 2010,1,5
+Adams 2010,2,10
+Adams 2010,3,10
+Adams 2010,4,10
+Adams 2010,5,10
+Adams 2010,6,10
+Adams 2010,7,5
+Adams 2010,8,5
+Adams 2010,9,10
+Adams 2010,10,10
+Adams 2010,11,10
+Choo 2012,1,10
+Choo 2012,2,10
+Choo 2012,3,10
+Choo 2012,4,10
+Choo 2012,5,10
+Choo 2012,6,10
+Choo 2012,7,0
+Choo 2012,8,10
+Choo 2012,9,10
+Choo 2012,10,10
+Choo 2012,11,10
+Dae 2012,1,5
+Dae 2012,2,10
+Dae 2012,3,10
+Dae 2012,4,10
+Dae 2012,5,10
+Dae 2012,6,10
+Dae 2012,7,0
+Dae 2012,8,5
+Dae 2012,9,10
+Dae 2012,10,10
+Dae 2012,11,10
+Garvaglia 2011,1,10
+Garvaglia 2011,2,10
+Garvaglia 2011,3,0
+Garvaglia 2011,4,10
+Garvaglia 2011,5,10
+Garvaglia 2011,6,10
+Garvaglia 2011,7,5
+Garvaglia 2011,8,5
+Garvaglia 2011,9,10
+Garvaglia 2011,10,10
+Garvaglia 2011,11,10
+Gyftopoulus 2013,1,10
+Gyftopoulus 2013,2,10
+Gyftopoulus 2013,3,10
+Gyftopoulus 2013,4,10
+Gyftopoulus 2013,5,10
+Gyftopoulus 2013,6,10
+Gyftopoulus 2013,7,0
+Gyftopoulus 2013,8,10
+Gyftopoulus 2013,9,10
+Gyftopoulus 2013,10,10
+Gyftopoulus 2013,11,10
+Omoumi 2012,1,5
+Omoumi 2012,2,10
+Omoumi 2012,3,10
+Omoumi 2012,4,10
+Omoumi 2012,5,10
+Omoumi 2012,6,10
+Omoumi 2012,7,0
+Omoumi 2012,8,10
+Omoumi 2012,9,10
+Omoumi 2012,10,10
+Omoumi 2012,11,10
+Ostor 2013,1,10
+Ostor 2013,2,10
+Ostor 2013,3,10
+Ostor 2013,4,10
+Ostor 2013,5,10
+Ostor 2013,6,10
+Ostor 2013,7,0
+Ostor 2013,8,10
+Ostor 2013,9,10
+Ostor 2013,10,10
+Ostor 2013,11,10
+Waldt 2007,1,10
+Waldt 2007,2,10
+Waldt 2007,3,10
+Waldt 2007,4,10
+Waldt 2007,5,10
+Waldt 2007,6,10
+Waldt 2007,7,0
+Waldt 2007,8,10
+Waldt 2007,9,10
+Waldt 2007,10,10
+Waldt 2007,11,10
